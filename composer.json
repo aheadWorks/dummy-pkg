@@ -1,0 +1,11 @@
+{
+    "name": "aheadWorks/dummy-pkg",
+    "description": "Preventing Dependency Confusion in PHP with Composer",
+    "authors": [
+        {
+            "name": "Alex Tereshkov",
+            "email": "tereshkov@aheadworks.com"
+        }
+    ],
+    "minimum-stability": "1.0.0",
+}
